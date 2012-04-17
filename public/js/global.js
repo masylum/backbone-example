@@ -1,0 +1,5 @@
+Uber = {
+  Models: {}
+, Views: {}
+, Collections: {}
+};
